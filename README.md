@@ -8,6 +8,8 @@
 
 # INITVERSE - BOT | Auto Swap and Swap
 
+## NOTE SWAP 1x before | USE USDT-INI & INI-USDT
+
 ## Install 
 ```
 git clone https://github.com/zamzasalim/initverse.git
