@@ -36,6 +36,7 @@ pip show web3
 ```
 npm install
 ```
+```
 pip install -r requirements.txt
 ```
 
