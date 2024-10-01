@@ -55,11 +55,11 @@ python3 run.py
 
 **Go back to Screen**
 ```
-Screen -r one
+Screen -r verse
 ```
 **Delete Screen**
 ```
-screen -S one -X kill
+screen -S verse -X kill
 ```
 
 **Credit @Stelaer**
