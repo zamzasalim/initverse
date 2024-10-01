@@ -1,0 +1,3 @@
+pip install eth-account
+pip install web3
+pip install requests
