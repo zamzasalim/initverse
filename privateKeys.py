@@ -1,0 +1,8 @@
+private_keys = [
+    "Paste-Here"
+]
+
+# DON'T CHANGE THIS VALUE !!! | JANGAN DI GANTI BAWAH INI KOCAK NANTI ERROR -_-
+VALUE_ETH = "0.002"  
+GAS_LIMIT_ADJUSTMENT = 140567  
+FEE_GWEI = "10"  
