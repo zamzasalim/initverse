@@ -22,7 +22,10 @@ nano privateKeys.py
 ```
 **After Paste CTRL + XY**
 
-## Install Modul | Need Web3 V7.3.0
+## Install Modul | Need Web3 V7.3.0 | MANUAL INSTALL eth-account
+```
+pip install eth-account
+```
 ```
 pip install web3==7.3.0
 ```
