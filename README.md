@@ -47,9 +47,9 @@ screen -S verse
 ```
 **Run Bot**
 ```
-```
 python3 run.py
 ```
+
 ## Troubleshoot Screen 
 **Close Screen | CTRL + AD**
 
